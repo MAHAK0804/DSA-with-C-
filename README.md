@@ -1,36 +1,32 @@
-DSA(C++)
+<h1>DSA(C++)</h1>
 
-•	Datatypes:-
-
-DATATYPES
-
-
-
-
-Primitive   --- Integer,float,character,Boolean                                              
-Derived     ---  function,array,pointer,reference                      
-User-defined --- class,structure,union,enum
-
+<h3>• Datatypes:-</h3>
+<br>
+<li>
+Primitive   --- Integer,float,character,Boolean</li>                                              
+<li>Derived     ---  function,array,pointer,reference   </li>                   
+<li>User-defined --- class,structure,union,enum
+</li>
 INT:- The first bit show the sign of number , first bit also called MSB(most significant bit), if MSB=1 then number is –ve else number is +ve.
 
 
-•	C++:-
+<h3>• C++:-</h3>
+<br>
+<pre>
+#include<iostream><br>
+int main(){<br>
+std::cout<<”hello”;<br>
+return 0;<br>
+}<br>
+		 </pre>
+In above c++ program there is some basic concept:<br>
+•	#include:- Preprocessor Directives used to include files<br>
+•	Iostream:- Header file for taking inpt and printing output<br>
+•	Main:-  the execution of code begins from main function<br>
+•	Cout: used to display ouput in quotation marks<br>
+•	Return 0: exit status of a function<br>
 
-
-#include<iostream>
-int main(){
-std::cout<<”hello”;
-return 0;
-}
-
-In above c++ program there is some basic concept:
-•	#include:- Preprocessor Directives used to include files
-•	Iostream:- Header file for taking inpt and printing output
-•	Main:-  the execution of code begins from main function
-•	Cout: used to display ouput in quotation marks
-•	Return 0: exit status of a function
-
-•	Operator:
+<h3>•	Operator:</h3><br>
 
 Operator are he symbols that tell the compiler to perform some specific operations.
 1.	Arithmetic Operators:
