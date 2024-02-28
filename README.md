@@ -7,8 +7,9 @@ DATATYPES
 
 
 
-Primitive                                                  Derived                           User-defined
-Integer,float,character,Boolean                                                       function,array,pointer,reference                            class,structure,union,enum
+Primitive   --- Integer,float,character,Boolean                                              
+Derived     ---  function,array,pointer,reference                      
+User-defined --- class,structure,union,enum
 
 INT:- The first bit show the sign of number , first bit also called MSB(most significant bit), if MSB=1 then number is –ve else number is +ve.
 
